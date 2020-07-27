@@ -6,7 +6,7 @@ const App = () =>{
 
 return(
 <div>
-   Empty React Project ....
+   Empty React Project ....[Slave Version]
 </div>
 
 );
